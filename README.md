@@ -1,6 +1,6 @@
 # This project is based on various designs for recomender systems algorithms.
 
-The data is based on rating.csv from the movielens dataset which can be found [https://www.kaggle.com/grouplens/movielens-20m-dataset](https://www.kaggle.com/grouplens/movielens-20m-dataset)
+The data is based on rating.csv from the movielens dataset which can be found via this link [https://www.kaggle.com/grouplens/movielens-20m-dataset](https://www.kaggle.com/grouplens/movielens-20m-dataset)
 
 In this project the data is contained in a seperate folder called data in the previous directory.
 
